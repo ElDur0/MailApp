@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mail App</string>
+    <string name="redactar_mensaje">Redactar mensaje</string>
+    <string name="de">De</string>
+    <string name="para">Para</string>
+    <string name="cco">CCO</string>
+    <string name="cc">CC</string>
+    <string name="asunto">Asunto</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="textoOrigen">Ingresa correo origen</string>
+    <string name="textoDestino">Ingresa correo destino</string>
+</resources>
